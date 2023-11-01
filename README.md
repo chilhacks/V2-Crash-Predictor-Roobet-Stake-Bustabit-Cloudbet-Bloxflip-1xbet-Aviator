@@ -3,7 +3,7 @@
 # Crash predictor for casino games.
 # Working on Roobet, Stake, Bustabit, Cloudbet, Bloxflip, 1xbet, Aviator and many other casinos.
 
-# |[Сliсk here to Dоwnlоаd](https://rb.gy/47048)|
+# |[Сliсk here to Dоwnlоаd](0)|
 
 # Undеtесtеd - 2023
 
