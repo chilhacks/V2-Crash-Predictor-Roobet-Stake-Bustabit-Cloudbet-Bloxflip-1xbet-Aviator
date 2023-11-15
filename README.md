@@ -22,7 +22,7 @@
 # Supported Games:
 
 - Slots
-
+ 
 - Sportsbook
 
 - Crash
