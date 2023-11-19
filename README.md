@@ -19,7 +19,7 @@
 
 4. Leave a star if this repository helped you. : )
 
-# Supported Games:
+# Supported Games: 
 
 - Slots
  
